@@ -1,0 +1,8 @@
+blog/__pycache__/
+blog/migrations/
+core/__pycache__/
+core/migrations/
+crashblog/__pycache__/
+crashblog/migrations/
+
+
